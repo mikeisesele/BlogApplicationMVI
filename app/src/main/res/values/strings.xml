@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blog ApplicationMVI</string>
+    <string name="add_post_action_button">add_post</string>
+</resources>
